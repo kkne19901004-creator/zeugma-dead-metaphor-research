@@ -60,7 +60,7 @@
 
 ### 危険な点
 
-- 「くびき語法 = metaphtonymy」と言ってしまう危険。
+- くびき語法をmetaphtonymyと同一視してしまう危険。
 - Goossens 1990はくびき語法を扱っていない。
 
 ## 4. idiom型
