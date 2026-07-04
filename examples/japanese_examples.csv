@@ -1,6 +1,21 @@
-id,example,shared_expression,typical_item,atypical_item,literal_side,figurative_side,classification,notes
-J001,彼は荷物と不安を抱えた。,抱える,荷物,不安,荷物を物理的に抱える,不安を心理的負担として抱える,dead metaphor再活性化型,作例の可能性あり; 実例確認が必要
-J002,彼女は涙と本音をこぼした。,こぼす,涙,本音,涙が身体からこぼれる,本音が内側から漏れる,dead metaphor再活性化型,作例の可能性あり; 慣用表現の確認が必要
-J003,彼女は部屋と気持ちを整理した。,整理する,部屋,気持ち,部屋を物理的に整える,気持ちを心理的に整える,dead metaphor再活性化型,作例の可能性あり
-J004,彼はグラスと沈黙を破った。,破る,グラス,沈黙,グラスを物理的に割る,沈黙という状態を終わらせる,frame shift型,やや不自然な作例の可能性; 実例確認が必要
-J005,彼は荷物と責任を背負った。,背負う,荷物,責任,荷物を背中に負う,責任を義務として引き受ける,dead metaphor再活性化型,作例の可能性あり; 慣用性は高い
+id,example,language,source_type,source,shared_expression,literal_item,figurative_item,typical_item,atypical_item,classification,dead_metaphor_reactivation_score,word_order,semantic_distance_level,notes
+J001,彼は荷物と不安を抱えた。,Japanese,constructed,constructed for this project,抱える,荷物,不安,荷物,不安,dead metaphor 再活性化型,3,literal_to_figurative,moderate,作例。実例確認が必要; 不安を抱えるの身体的基盤が見えやすい
+J002,彼女は涙と本音をこぼした。,Japanese,constructed,constructed for this project,こぼす,涙,本音,涙,本音,dead metaphor 再活性化型,3,literal_to_figurative,moderate,作例。実例確認が必要; 本音が内側から漏れるものとして再具体化される
+J003,彼女は部屋と気持ちを整理した。,Japanese,constructed,constructed for this project,整理する,部屋,気持ち,部屋,気持ち,dead metaphor 再活性化型,3,literal_to_figurative,moderate,作例。実例確認が必要; 気持ちが空間的散らかりとして可視化される
+J004,彼はグラスと沈黙を破った。,Japanese,constructed,constructed for this project,破る,グラス,沈黙,グラス,沈黙,frame shift型,2,literal_to_figurative,moderate,やや不自然な作例。沈黙を破るは慣用的だが語順と自然さを要確認
+J005,彼は荷物と責任を背負った。,Japanese,constructed,constructed for this project,背負う,荷物,責任,荷物,責任,dead metaphor 再活性化型,3,literal_to_figurative,moderate,作例。実例確認が必要; 責任を背負うの身体負荷が再前景化される
+J006,彼女はドアと心を開いた。,Japanese,constructed,constructed for this project,開く,ドア,心,ドア,心,metonymy混合型,2,literal_to_figurative,moderate,作例。心は内面のメトニミー的要素を含む可能性
+J007,彼は書類と問題を片づけた。,Japanese,constructed,constructed for this project,片づける,書類,問題,書類,問題,dead metaphor 再活性化型,2,literal_to_figurative,moderate,作例。問題を片づけるは抽象化型との境界確認が必要
+J008,彼女は机と考えを整理した。,Japanese,constructed,constructed for this project,整理する,机,考え,机,考え,dead metaphor 再活性化型,2,literal_to_figurative,moderate,作例。気持ちより抽象度が高く分類は要検討
+J009,彼は鍵と記憶をなくした。,Japanese,constructed,constructed for this project,なくす,鍵,記憶,鍵,記憶,polysemy型,1,literal_to_abstract,moderate,作例。なくすの多義性が中心でdead metaphorは弱い
+J010,彼女は窓と心を閉ざした。,Japanese,constructed,constructed for this project,閉ざす,窓,心,窓,心,metonymy混合型,2,literal_to_figurative,moderate,作例。心の閉鎖は内面フレーム; 開く型との対照用
+J011,彼は重い箱と重い責任を背負った。,Japanese,constructed,constructed for this project,背負う,重い箱,重い責任,重い箱,重い責任,dead metaphor 再活性化型,3,literal_to_figurative,moderate,作例。形容詞重いが橋渡しになるが冗長さもある
+J012,彼女は涙と弱音をこぼした。,Japanese,constructed,constructed for this project,こぼす,涙,弱音,涙,弱音,dead metaphor 再活性化型,2,literal_to_figurative,moderate,作例。弱音をこぼすの慣用性確認が必要
+J013,彼は火と怒りを抑えた。,Japanese,constructed,constructed for this project,抑える,火,怒り,火,怒り,dead metaphor 再活性化型,2,literal_to_figurative,moderate,作例。火を抑えるの自然さは文脈依存; 怒りを抑えるは慣用的
+J014,彼女は道と未来を切り開いた。,Japanese,constructed,constructed for this project,切り開く,道,未来,道,未来,dead metaphor 再活性化型,2,literal_to_figurative,moderate,作例。未来を切り開くは慣用化した比喩; 実例確認が必要
+J015,彼は箱と秘密を開けた。,Japanese,constructed,constructed for this project,開ける,箱,秘密,箱,秘密,距離遠すぎ型,0,literal_to_abstract,too_far,作例。不自然。秘密は普通「明かす」であり共有語句の統合が弱い
+J016,彼は荷物と鞄を抱えた。,Japanese,constructed,constructed as distance test,抱える,荷物,鞄,荷物,鞄,距離近すぎ型,0,literal_to_literal,close,通常の並列。くびき語法らしさは低い
+J017,彼は荷物と民主主義を抱えた。,Japanese,constructed,constructed as distance test,抱える,荷物,民主主義,荷物,民主主義,距離遠すぎ型,0,literal_to_abstract,too_far,統合困難。文脈なしでは不自然
+J018,彼女は涙と汗をこぼした。,Japanese,constructed,constructed as distance test,こぼす,涙,汗,涙,汗,距離近すぎ型,0,literal_to_literal,close,通常の身体液体の並列。再前景化はほぼない
+J019,彼女は涙と経済政策をこぼした。,Japanese,constructed,constructed as distance test,こぼす,涙,経済政策,涙,経済政策,距離遠すぎ型,0,literal_to_abstract,too_far,統合困難。発表では使わない方がよい
+J020,老人の言葉と怡々としてさし出す土産の菓子が身にしみた。,Japanese,corpus_candidate,J-FIG Japanese Rhetoric Corpus zeugma category; verify original source,身にしみる,土産の菓子,老人の言葉,土産の菓子,老人の言葉,frame shift型,1,figurative_to_literal,moderate,J-FIG掲載候補。出典と文脈確認が必要; 日本語実例候補として重要
