@@ -1,0 +1,7 @@
+id,example,shared_expression,typical_item,atypical_item,literal_side,figurative_side,classification,notes
+E001,He swallowed milk and kisses.,swallowed,milk,kisses,milk is physically swallowed,kisses are received or accepted figuratively,metaphor type,Classic Shen-style example; metonymy is weak
+E002,She opened the door and her heart.,opened,the door,her heart,the door is physically opened,heart stands for inner feelings and emotional openness,metonymy mixed type,Possible metaphor plus body-part metonymy; do not overstate
+E003,She broke his car and his heart.,broke,his car,his heart,the car is physically broken,heart stands for feelings that are emotionally damaged,metonymy mixed type,Strong candidate for metaphor plus metonymy interaction
+E004,He lost his coat and his temper.,lost,his coat,his temper,the coat is lost as an object,temper is lost as emotional control,idiom type,May be idiomatic/polysemous rather than dead metaphor reactivation
+E005,He fired his gun and his assistant.,fired,his gun,his assistant,the gun is discharged,the assistant is dismissed,polysemy type,More lexical polysemy than metaphor; use cautiously
+E006,They covered the table and the scandal.,covered,the table,the scandal,the table is physically covered,the scandal is concealed,frame shift type,Good for physical-to-social frame shift
